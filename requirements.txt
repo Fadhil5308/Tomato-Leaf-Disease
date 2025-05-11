@@ -5,3 +5,4 @@ tensorflow
 opendatasets
 pillow
 python-multipart
+streamlit
