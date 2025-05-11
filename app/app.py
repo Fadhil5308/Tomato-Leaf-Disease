@@ -111,4 +111,4 @@ if uploaded_file is not None:
             for measure in prevention_measures:
                 st.write(f"- {measure}")
         except Exception as e:
-            st.error(f"Error during prediction: {e}"
+            st.error(f"Error during prediction: {e}")
